@@ -34,5 +34,5 @@ DinoSource offers powerful tools for researchers to deeply understand the genomi
         
 
 ## Lab Homepage
-[Welcome to Guoliang's Lab Website of Bioinformatics](http://glab.hzau.edu.cn/)
+[Welcome to Guoliang's Lab Website of Bioinformatics](http://glab.hzau.edu.cn/) and Yaping Fang's page(https://faculty.hzau.edu.cn/fangyaping/zh_CN/index.htm). 
 <br></br>
